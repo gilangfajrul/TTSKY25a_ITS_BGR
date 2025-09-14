@@ -1,0 +1,48 @@
+
+Circuit 1 cell sky130_fd_pr__nfet_01v8 and Circuit 2 cell sky130_fd_pr__nfet_01v8 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_01v8 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_01v8 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__nfet_01v8         |Circuit 2: sky130_fd_pr__nfet_01v8         
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__nfet_01v8 and sky130_fd_pr__nfet_01v8 are equivalent.
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_3YKU97 in circuit nmos_tail_current (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_P5G96Q in circuit nmos_tail_current (0)(5 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_6H9P4D in circuit nmos_tail_current (0)(8 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_3KF9AC in circuit nmos_tail_current (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_BSRS8Q in circuit nmos_tail_current (0)(1 instance)
+
+Class nmos_tail_current (0):  Merged 8 parallel devices.
+Subcircuit summary:
+Circuit 1: nmos_tail_current               |Circuit 2: nmos_tail_current               
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_01v8 (16->8)            |sky130_fd_pr__nfet_01v8 (16->8)            
+Number of devices: 8                       |Number of devices: 8                       
+Number of nets: 6                          |Number of nets: 6                          
+---------------------------------------------------------------------------------------
+Resolving symmetries by property value.
+Resolving symmetries by pin name.
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: nmos_tail_current               |Circuit 2: nmos_tail_current               
+-------------------------------------------|-------------------------------------------
+D1                                         |D1                                         
+D4                                         |D4                                         
+D3                                         |D3                                         
+S2                                         |S2                                         
+D2                                         |D2                                         
+AVSS                                       |AVSS                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes nmos_tail_current and nmos_tail_current are equivalent.
+
+Final result: Circuits match uniquely.
+.

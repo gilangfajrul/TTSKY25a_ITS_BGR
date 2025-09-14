@@ -1,0 +1,95 @@
+Flattening unmatched subcell nmos_startup in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_CJRLGR in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_6H9P4D in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell resistorstart in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p35_9NXREG in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell pmos_iptat in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_CVRJBD in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_8RMJP2 in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_2XUZHN in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell digital in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell pmos_ena in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_2ZH9EN in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_CVH45E in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_9XC4R9 in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell trim in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_lvt_UG4D4N in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_lvt_TGDTCU in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_lvt_QJFS9J in circuit bgr_op5_block_rev2 (0)(16 instances)
+Flattening unmatched subcell vena in circuit bgr_op5_block_rev2 (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_lvt_SJFSNB in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_lvt_U8VHVM in circuit bgr_op5_block_rev2 (0)(2 instances)
+Flattening unmatched subcell pmos_startup in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_CVRJBD in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_8RMJP2 in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_2XUZHN in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell res_trim in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p35_KQ9YC9 in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell pmos_current_bgr in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_C2SJBD in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_8WJJP2 in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_HVJJBB in circuit bgr_op5_block_rev2 (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_2XUZHN in circuit bgr_op5_block_rev2 (0)(8 instances)
+Flattening unmatched subcell bjt in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__rf_pnp_05v5_W3p40L3p40 in circuit bgr_op5_block_rev2 (0)(25 instances)
+Flattening unmatched subcell pmos_current_bgr_2 in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_CVRJBD in circuit bgr_op5_block_rev2 (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_8RMJP2 in circuit bgr_op5_block_rev2 (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_2XUZHN in circuit bgr_op5_block_rev2 (0)(8 instances)
+Flattening unmatched subcell resistor_op_tt in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p35_RXTQM4 in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell nmos_tail_current in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_3YKU97 in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_P5G96Q in circuit bgr_op5_block_rev2 (0)(5 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_6H9P4D in circuit bgr_op5_block_rev2 (0)(8 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_3KF9AC in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_BSRS8Q in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell differential_pair in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_2A7GYR in circuit bgr_op5_block_rev2 (0)(4 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_G26DVX in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_01v8_7RJ44K in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell resist_const in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__res_high_po_0p35_SU58NF in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell cap_op in circuit bgr_op5_block_rev2 (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_1_SXWHWZ in circuit bgr_op5_block_rev2 (0)(1 instance)
+
+Cell bgr_op5_block_rev2 (1) disconnected node: trim1
+Cell bgr_op5_block_rev2 (1) disconnected node: trim3
+Cell bgr_op5_block_rev2 (1) disconnected node: trim0
+Cell bgr_op5_block_rev2 (1) disconnected node: trim2
+Cell bgr_op5_block_rev2 (1) disconnected node: dvdd
+Cell bgr_op5_block_rev2 (1) disconnected node: vbgsc
+Cell bgr_op5_block_rev2 (1) disconnected node: vbgtc
+Cell bgr_op5_block_rev2 (1) disconnected node: avdd
+Cell bgr_op5_block_rev2 (1) disconnected node: vena
+Cell bgr_op5_block_rev2 (1) disconnected node: ena
+Cell bgr_op5_block_rev2 (1) disconnected node: avss
+Cell bgr_op5_block_rev2 (1) disconnected node: dvss
+Cell bgr_op5_block_rev2 (1) disconnected node: iptat
+Cell bgr_op5_block_rev2 (1) disconnected node: vref
+Class bgr_op5_block_rev2 (0):  Merged 168 parallel devices.
+Class bgr_op5_block_rev2 (0):  Merged 88 series devices.
+Class bgr_op5_block_rev2 (0):  Merged 4 parallel devices.
+
+Subcircuit pins:
+Circuit 1: bgr_op5_block_rev2              |Circuit 2: bgr_op5_block_rev2              
+-------------------------------------------|-------------------------------------------
+AVSS                                       |avss                                       
+VREF                                       |vref                                       
+TRIM3                                      |trim3                                      
+TRIM2                                      |trim2                                      
+TRIM1                                      |trim1                                      
+TRIM0                                      |trim0                                      
+VBGSC                                      |vbgsc                                      
+VENA                                       |vena                                       
+VBGTC                                      |vbgtc                                      
+ENA                                        |ena                                        
+AVDD                                       |avdd                                       
+DVDD                                       |dvdd                                       
+DVSS                                       |dvss                                       
+IPTAT                                      |iptat                                      
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes bgr_op5_block_rev2 and bgr_op5_block_rev2 are equivalent.
+
+Final result: Verify:  cell /foss/designs/TTSKY25a_ITS_BGR/mag/bgr_op5_block_rev2.sch.spc has no elements and/or nodes.  Not checked.
